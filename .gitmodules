@@ -1,16 +1,18 @@
 [submodule "AdminLTE"]
-	path = AdminLTE
-	url = https://github.com/ColorlibHQ/AdminLTE.git
+    path = AdminLTE
+    url = https://github.com/ColorlibHQ/AdminLTE.git
 [submodule "adminlte-base"]
-	path = adminlte-base
-	url = git@github.com:kyzima-spb/adminlte-base.git
+    path = adminlte-base
+    url = git@github.com:kyzima-spb/adminlte-base.git
+    branch = dev-master
 [submodule "flask-adminlte-full"]
-	path = flask-adminlte-full
-	url = git@github.com:kyzima-spb/flask-adminlte-full.git
+    path = flask-adminlte-full
+    url = git@github.com:kyzima-spb/flask-adminlte-full.git
+    branch = dev-master
 [submodule "django-adminlte-full"]
     path = django-adminlte-full
     url = git@github.com:kyzima-spb/django-adminlte-full.git
     branch = dev-master
 [submodule "jinja-to-another"]
-	path = jinja-to-another
-	url = ./jinja-to-another
+    path = jinja-to-another
+    url = ./jinja-to-another
